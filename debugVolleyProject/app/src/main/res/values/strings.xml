@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">debugVolleyProject</string>
+
+    <string name="button">Send request</string>
+
+    <string name="tv_success">Volley request success</string>
+    <string name="tv_fail">Volley request fail</string>
+    <string name="tv_bug">Response received, but still timed out</string>
+
+    <string name="tv_wait_for_click">Please click the button</string>
+</resources>
